@@ -1,4 +1,4 @@
-package com.TeamB.demo;
+package com.TeamB.demo.model;
 
 public class Admin_Control{
     public  boolean Bookingconfirm;
